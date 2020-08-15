@@ -1,0 +1,22 @@
+html body {
+    background-color: black;
+}
+.output {
+    background-color: white;
+}
+button {
+    height: 30px;
+    width: 100px;
+    border-radius: o;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}
+input {
+    height: 30px;
+    width: 200px;
+    border-radius: 0;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}
